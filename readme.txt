@@ -9,5 +9,7 @@ The program will then create a version of the only dashboard that can be shared 
 The design and planning version is currently being worked out on a figma board at this address
 https://www.figma.com/board/mJFrC5Wni6MaVl9WLcRBhI/Cap-Stone-Project?node-id=0-1&t=VIFDu6rZWpMK3QRh-1
 
+exploring api for data storage as well as additional information need for chart js
+
 
 

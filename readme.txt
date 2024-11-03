@@ -1,5 +1,5 @@
 My capstone project will be a working document that will be used by my current company.  
-It will be an online dashboard tool that will take our current nanually prepared dashboard and make it automated
+It will be an online dashboard tool that will take our current manually prepared dashboard and make it automated
 The first screen will be an input form where the user will name the campaign they are creating the dashboard for.
 This will return a answer if the dashboard has been previously generated or needs to be made for the first time
 If the dashboard is being made for the first time the program will ask for some additional information
